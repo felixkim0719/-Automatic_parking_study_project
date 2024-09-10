@@ -1,8 +1,8 @@
 # 자율 주차 강화학습 프로젝트
 
 ## 프로젝트 개요
-본 프로젝트는 Unity의 ML-Agents 툴킷을 활용한 강화학습(RL) 기반 자율 주차에 대한 공부를 하기위해 진행중인 프로젝트입니다. 목표는 실제 ROS 기반 자율주행 시스템으로의 모델로 이전하여 구현하는 것입니다.
-
+본 프로젝트는 Unity의 ML-Agents 툴킷을 활용한 강화학습(RL) 기반 자동 주차에 대한 공부를 하기위해 진행중인 프로젝트입니다. 목표는 실제 ROS 기반 자율주행 시스템으로의 모델로 이전하여 구현하는 것입니다.
+![자동 주차 테스트 이미지](https://raw.githubusercontent.com/felixkim0719/Automatic_parking_study_project/main/picture.jpg)
 ## 기술 스택
 - Unity 게임 엔진
 - ML-Agents 툴킷
